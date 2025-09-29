@@ -1,3 +1,4 @@
 public interface Remunerado {
-    int sueldo();
+    public String sueldo();
+    public String getCcc();
 }
